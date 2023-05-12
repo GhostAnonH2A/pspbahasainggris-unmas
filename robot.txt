@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pspbahasainggris.unmas.ac.id/-/slot-thailand/sitemap.xml
